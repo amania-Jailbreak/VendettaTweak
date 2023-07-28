@@ -4,7 +4,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Description: A mod for Discord's mobile apps.
 Maintainer: FieryFlames
-Author: FieryFlames
+Author: amania
 Icon: https://avatars.githubusercontent.com/u/112445065
 Section: Tweaks
 Depends: ${ORION}, firmware (>= 13.0)
